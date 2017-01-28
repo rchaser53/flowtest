@@ -1,0 +1,5 @@
+declare module 'del' {
+	declare function sync(path: string): string;
+	declare var tanapan: number;
+	declare var tanatyo: number;
+}
